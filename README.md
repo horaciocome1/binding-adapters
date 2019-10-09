@@ -1,5 +1,7 @@
 # binding-adapters
 Set of useful binding adapters for databinding component on android. Please fork and add some other useful cases to this index.
+Some useful links:
+[Databinding - lessons learnt](https://medium.com/androiddevelopers/data-binding-lessons-learnt-4fd16576b719)
 
 ## Loading an image
 ### Adapter
